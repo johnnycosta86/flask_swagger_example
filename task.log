@@ -1,0 +1,42 @@
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger PIN: 151-767-133
+ * Detected change in '/home/johnny/python/udemy/REST APIs com Python e Flask/swagger/app.py', reloading
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger PIN: 151-767-133
+ * Detected change in '/home/johnny/python/udemy/REST APIs com Python e Flask/swagger/app.py', reloading
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger PIN: 151-767-133
+ * Detected change in '/home/johnny/python/udemy/REST APIs com Python e Flask/swagger/task_endpoint.py', reloading
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger PIN: 151-767-133
+ * Detected change in '/home/johnny/python/udemy/REST APIs com Python e Flask/swagger/task_endpoint.py', reloading
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger PIN: 151-767-133
+ * Detected change in '/home/johnny/python/udemy/REST APIs com Python e Flask/swagger/task_endpoint.py', reloading
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger PIN: 151-767-133
+ * Detected change in '/home/johnny/python/udemy/REST APIs com Python e Flask/swagger/task_endpoint.py', reloading
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger PIN: 151-767-133
+>>>>> Starting development server at http://None/ <<<<<
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+>>>>> Starting development server at http://None/ <<<<<
+ * Debugger is active!
+ * Debugger PIN: 151-767-133
+127.0.0.1 - - [27/Dec/2019 00:07:17] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 00:07:17] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 00:07:17] "GET /swaggerui/swagger-ui.css HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 00:07:17] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 00:07:17] "GET /swagger.json HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 00:07:37] "POST /tasks/1 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 00:07:50] "POST /tasks/2 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 00:07:56] "GET /tasks/1 HTTP/1.1" 200 -
+127.0.0.1 - - [27/Dec/2019 00:08:00] "GET /tasks/2 HTTP/1.1" 200 -
